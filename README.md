@@ -1,20 +1,60 @@
-# Hospital Data Analysis using SQL 🏥
+# 🏥 SQL Hospital Database Project – 30 Days SQL Challenge
 
-This project is part of the **30 Days SQL Micro-Course** offered by [SkillCourse.in](https://skillcourse.in).  
-I completed this hands-on assignment by solving real-world queries on hospital datasets using SQL.
+This project is part of the **30 Days SQL Micro-Course** by SkillCourse.  
+It involves analyzing hospital data using various SQL queries to extract insights related to departments, patients, medical expenses, and more.
 
-## 📌 Project Overview
+---
 
-This assignment includes practical SQL queries for:
+## 📁 Project Overview
 
-- ✅ Summarizing data using `SUM`, `AVG`, `COUNT`
-- ✅ Extracting month & date info with `EXTRACT`, `TO_CHAR`
-- ✅ Grouping & ordering data by location, department, and dates
-- ✅ Identifying key metrics like top departments, longest stay, and daily expenses
+- Designed a database schema for hospital data.
+- Used SQL to solve 10 real-world analytical problems.
+- Performed data aggregation, filtering, grouping, and ordering.
+- Generated insights such as average stay duration, highest expenses, department performance, etc.
+
+---
+
+## 📊 Key SQL Queries Covered
+
+1. Total Number of Patients  
+2. Average Number of Doctors per Hospital  
+3. Top 3 Departments with Most Patients  
+4. Hospital with Maximum Medical Expenses  
+5. Daily Average Medical Expenses  
+6. Longest Hospital Stay  
+7. Total Patients Treated per City  
+8. Average Stay Duration by Department  
+9. Department with Least Patients  
+10. Monthly Medical Expense Summary
+
+---
+
+## 🧠 Learning Outcome
+
+- Improved SQL query writing skills
+- Understood how to draw insights from healthcare datasets
+- Practiced advanced SQL concepts: `GROUP BY`, `JOIN`, `ORDER BY`, `AGGREGATE FUNCTIONS`, `DATE FUNCTIONS`
+
+---
 
 ## 📂 Files Included
 
-- `hospital_assignment.sql` – All SQL queries with comments
-- `hospital-assignment.pdf` – Answers in a formatted PDF file
-- `hospital-assignment.csv` – Data in CSV file
+- `hospital_analysis.sql` – Contains all 10 queries
+- `hospital_project_report.pdf` – PDF version of all answers
+- `README.md` – Project overview
+- `hospital_data.csv` – Sample dataset (if applicable)
+
+---
+
+## 🪪 Certificate
+
+✅ Successfully completed and earned a certificate from SkillCourse  
+🔗 *[Add your certificate link or upload as file]*
+
+---
+
+## 📌 Connect With Me
+
+Feel free to explore more or connect with me on [LinkedIn](https://www.linkedin.com/in/pushpak-bhalavi/)  
+This project is a step in my journey toward becoming a professional **Data Analyst** 🚀
 

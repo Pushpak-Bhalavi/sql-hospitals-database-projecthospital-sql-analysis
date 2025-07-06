@@ -75,13 +75,6 @@ LIMIT 1;
    • Group the data by month and calculate the total medical expenses for each month. */
 
 SELECT 
-  TO_CHAR(admission_date, 'Month') AS month_name,
-  SUM(medical_expenses) AS total_expenses
-FROM hospital
-GROUP BY month_name
-ORDER BY TO_DATE(month_name, 'Month');
-
-SELECT 
   EXTRACT(MONTH FROM admission_date) AS month_number,
   TO_CHAR(admission_date, 'Month') AS month_name,
   SUM(medical_expenses) AS total_expenses

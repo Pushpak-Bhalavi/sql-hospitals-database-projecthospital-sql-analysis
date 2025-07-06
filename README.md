@@ -49,7 +49,7 @@ It involves analyzing hospital data using various SQL queries to extract insight
 ## 🪪 Certificate
 
 ✅ Successfully completed and earned a certificate from SkillCourse  
-🔗 *[Add your certificate link or upload as file]*
+🔗 (https://github.com/Pushpak-Bhalavi/sql-hospitals-database-projecthospital-sql-analysis/blob/main/SQL_145-249-1c0a928d967b6c6fc283153716a8d4ab-40-80.pdf)
 
 ---
 
